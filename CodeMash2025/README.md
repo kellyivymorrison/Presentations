@@ -1,7 +1,7 @@
 # 2025 CodeMash Slides
 
 This repository contains a draft-quality PDF of the slides from the
-presentation __Build Beautiful, Fluent APIs With The Builder Design
+presentation __Creating Intuitive APIs With The Builder Design
 Pattern.__
 
 The last page includes QR codes pointing to this repo; a previous
